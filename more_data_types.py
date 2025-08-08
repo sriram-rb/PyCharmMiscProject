@@ -23,6 +23,4 @@
 #
 # print (list_to_sum)
 
-int_to_arr = {}
-
-int
+# int_to_arr = {}
